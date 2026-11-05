@@ -1,0 +1,590 @@
+*{
+    padding: 0 ;
+    margin:0;
+}
+.bord{
+    height: 800px;
+    width:800px;
+    background-color: aqua;
+    margin: auto;
+    position: relative;
+}
+.one{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+
+.two{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translatex(100%);
+}
+.three{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translatex(200%);
+}
+.four{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translatex(300%);
+}
+.five{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translatex(400%);
+}
+.six{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translatex(500%);
+}
+.seven{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translatex(600%);
+}
+.eight{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translatex(700%);
+}
+.nine{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translatey(100%);
+}
+.ten{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(100%, 100%);
+    }
+    .eleven{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(200%,100%);
+}
+.twelve{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(300%, 100%);
+    }
+    .thirteen{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(400%,100%);
+}
+.fourteen{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(500%, 100%);
+    }
+    .fifteen{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(600%,100%);
+}
+.sixteen{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(700%, 100%);
+    }
+    .seventeen{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(0%, 200%);
+    }
+    .eightteen{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(100%,200%);
+}
+.nineteen{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(200%, 200%);
+    }
+    .twenty{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(300%,200%);
+}
+.twentyone{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(400%, 200%);
+    }
+    .twentytwo{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(500%,200%);
+}
+    .twentythree{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(600%, 200%);
+    }
+    .twentyfour{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(700%,200%);
+}
+.twentyfive{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(0%,300%);
+}
+.twentysix{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(100%, 300%);
+    }
+.twentyseven{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(200%,300%);
+}
+.twentyeight{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(300%, 300%);
+    }
+.twentynine{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(400%,300%);
+}
+.thirty{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(500%, 300%);
+    }
+.thirtyone{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(600%,300%);
+}
+.thirtytwo{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(700%, 300%);
+    }
+    .thirtythree{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(0%, 400%);
+    }
+    .thirtyfour{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(100%,400%);
+}
+.thirtyfive{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(200%, 400%);
+    }
+.thirtysix{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(300%,400%);
+}
+.thirtyseven{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(400%, 400%);
+    }
+.thirtyeight{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(500%,400%);
+}
+.thirtynine{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(600%, 400%);
+    }
+.fourty{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(700%,400%);
+}
+.fourtyone{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(0%,500%);
+}
+.fourtytwo{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(100%, 500%);
+    }
+    .fourtythree{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(200%,500%);
+}
+    .fourtyfour{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(300%, 500%);
+    }
+    .fourtyfive{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(400%,500%);
+}
+    .fourtysix{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(500%, 500%);
+    }
+    .fourtyseven{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(600%,500%);
+}
+    .fourtyeight{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(700%, 500%);
+    }
+    .fourtynine{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(0%, 600%);
+    }
+    .fifty{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(100%,600%);
+}
+.fiftyone{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(200%, 600%);
+    }
+.fiftytwo{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(300%,600%);
+}
+.fiftythree{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(400%, 600%);
+    }
+.fiftyfour{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(500%,600%);
+}
+.fiftyfive{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(600%, 600%);
+    }
+.fiftysix{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(700%,600%);
+}
+.fiftyseven{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(0%,700%);
+}
+.fiftyeight{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(100%, 700%);
+    }
+    .fiftynine{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(200%,700%);
+}
+    .sixty{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(300%, 700%);
+    }
+    .sixtyone{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(400%,700%);
+}
+    .sixtytwo{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(500%, 700%);
+    }
+    .sixtythree{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 135, 142);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(600%,700%);
+}
+    .sixtyfour{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(222, 184, 135);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(700%, 700%);
+    }
+
+

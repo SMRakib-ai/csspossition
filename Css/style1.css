@@ -1,0 +1,95 @@
+*{
+    padding: 0 ;
+    margin:0;
+}
+.parent{
+    height: 500px;
+    width: 500px;
+    background-color: aqua;
+    margin: auto;
+    
+    position: relative;
+}
+.childOne{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.childTwo{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.childThree{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.childFour{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    left: 0;
+   top: 0;
+}
+.childFive{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    left: 50%;
+    top: 0;
+    transform: translatex(-50%);
+
+}
+.childSix{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translatey(-50%);
+
+}
+.childSeven{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    right: 50%;
+    bottom: 0;
+    transform: translatex(50%);
+
+}
+.childEight{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translatey(-50%);
+
+}
+.childNine{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
